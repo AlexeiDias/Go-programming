@@ -1,0 +1,1 @@
+#### Create a program that uses as switch statement with no switch expression specified.
