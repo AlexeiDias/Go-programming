@@ -1,4 +1,4 @@
-## Topics about this 
+## Topics  
 
 ### Introduction to packages
 
