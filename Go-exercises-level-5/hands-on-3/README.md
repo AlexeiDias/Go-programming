@@ -14,3 +14,5 @@
 *   using a composite literal, create a value of type sedan and assign values to the fields.
 *   *   Print out each of these values.
 *   *   Print out a single field from each of these values.
+
+https://play.golang.org/p/BF0qcOCBuHT
